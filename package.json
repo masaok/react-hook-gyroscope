@@ -1,6 +1,6 @@
 {
   "name": "react-hook-gyroscope",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook for gyroscope access",
   "keywords": [
     "react",
