@@ -1,12 +1,13 @@
 {
   "name": "react-hook-gyroscope",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "React hook for gyroscope access",
   "keywords": [
     "react",
     "hook",
     "gyroscope"
   ],
+  "repository": "git@github.com:masaok/react-hook-gyroscope.git",
   "main": "index.js",
   "license": "LGPL",
   "author": "Masao Kitamura",
