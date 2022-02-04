@@ -73,6 +73,10 @@ If permission to access gyroscope was previously granted by the user, gyroscope 
 
 Gyroscope API is available only in secure contexts (a.k.a. only using HTTPS).
 
+## Credits
+
+Credit to [Bence A. Tóth](https://github.com/bence-toth) for his original hook code for [Geolocation](https://www.npmjs.com/package/react-hook-geolocation).
+
 ## Licence
 
 LGPL-3.0
