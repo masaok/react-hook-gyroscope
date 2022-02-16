@@ -1,6 +1,6 @@
 {
   "name": "react-hook-gyroscope",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "React hook for gyroscope access",
   "keywords": [
     "react",
@@ -21,5 +21,8 @@
     "@babel/preset-react": "^7.16.7",
     "babel-core": "^6.26.3",
     "react": "^17.0.2"
-  }
+  },
+  "files": [
+    "/dist"
+  ]
 }
