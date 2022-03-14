@@ -8,7 +8,7 @@
     "gyroscope"
   ],
   "repository": "git@github.com:masaok/react-hook-gyroscope.git",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "LGPL",
   "author": "Masao Kitamura",
   "scripts": {
